@@ -16,7 +16,7 @@ const Hero = () => {
       <div className="container relative z-10 px-4 py-20 text-center">
         <div className="mx-auto max-w-4xl space-y-8 animate-fade-in">
           <h1 className="text-5xl font-bold leading-tight text-white md:text-7xl lg:text-8xl">
-            Your Tech Journey Begins
+            my game is  Journey Begins
           </h1>
           <p className="text-xl text-white/90 md:text-2xl">
             @ <span className="font-semibold">Madras Engineering College</span>.
